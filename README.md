@@ -4,7 +4,7 @@ Learn LangGraph by working through practical examples. Each notebook covers a ke
 
 ## The Notebooks
 
-1. **BMI State Demo** — Start here! Learn how state flows through your workflows
+1. **BMI State Demo** — Basic example how state flows through the workflows
 2. **Sequential Q&A** — Chain steps together: Question → Process → Answer
 3. **Prompt Chaining** — Break big problems into smaller prompt-based steps
 4. **Parallel Workflows** — Run multiple tasks at the same time
